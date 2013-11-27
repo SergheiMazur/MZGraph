@@ -2,8 +2,8 @@
 //  iPhoneGraphViewController.h
 //  Graph for iPhone
 //
-//  Created by Serghei Mazur on 2/28/13.
-//  Copyright (c) 2013 BinaSystem. All rights reserved.
+//  Created by Serghei Mazur on 11/26/13.
+//  Copyright (c) 2013 Serghei Mazur. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

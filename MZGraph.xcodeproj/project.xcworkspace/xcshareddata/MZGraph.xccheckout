@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B4F0301B-AAB4-4502-AE2C-6514420704F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MZGraph</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F6D0D507-5AD8-40DE-BA5D-94D31653CB57</key>
+		<string>https://github.com/SergheiMazur/MZGraph.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MZGraph.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F6D0D507-5AD8-40DE-BA5D-94D31653CB57</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SergheiMazur/MZGraph.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F6D0D507-5AD8-40DE-BA5D-94D31653CB57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F6D0D507-5AD8-40DE-BA5D-94D31653CB57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MZGraph</string>
+		</dict>
+	</array>
+</dict>
+</plist>

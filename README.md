@@ -1,5 +1,8 @@
 # MZGraph
 =========
+This is a simple graph.
+Easy to Implement and Customize.
+
 
 
 Style 1
